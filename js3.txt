@@ -1,0 +1,6 @@
+ <button onclick="pri()">privious</button>
+    
+    <img id="ii" src="/image source/images.jpg" alt="lol" height="500px" width="450px">
+    
+    <button onclick="nex()">next</button>
+    

@@ -1,0 +1,15 @@
+ <h1 id="id1">web vi</h1>
+    <h1 class="cl1">web dada</h1>
+    <p>this is pera </p>
+    <p>this is pera 2</p>
+    <p class="cl2">this is pera 3</p>
+    <button onclick="f1()">clic me 1</button><br>
+    <p id="i1"></p>
+    <br>
+    <button onclick="f2()">click me 2 </button><br>
+    <p id="i2"></p><br>
+
+
+    <button onclick="f3()">itachi</button><br>
+    <button onclick="f4()">kakashi</button><br>
+    <img src="#" alt="" class="ic">

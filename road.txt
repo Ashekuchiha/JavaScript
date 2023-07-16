@@ -1,0 +1,17 @@
+1.variable
+2.typeof(Vname)
+3.concatenate
+4.2**3=8
+5.== value,=== data and value
+6.functon Fname(){}
+7.iifes (function Fname(){})()
+8.array library-video 27
+9.obj var Oname={
+vari : "",
+}
+10.construtor function Cname(V1,V2){
+this.V1=V1;
+}
+11.math library -video 32
+12.Date library -video 34
+13.dom(document object model)

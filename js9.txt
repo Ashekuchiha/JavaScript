@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/javascriptpractice/js7.css">
+</head>
+<body>
+
+    <!-- for input -->
+
+    <!-- <label for="n">Name : 
+        <input type="text" name="n" id="i-n" class="c-n">
+    </label> -->
+
+    <!-- for checkbox -->
+
+    <!-- <label for="lang"><h1>programing language</h1></label><br>
+    <input type="checkbox" name="lang" id="">c<br>
+    <input type="checkbox" name="lang" id="">c++<br>
+    <input type="checkbox" name="lang" id="">c#<br> -->
+
+    <!-- for select -->
+
+    <label for="program">program </label>
+    <select name="program" id="program">
+        <option value="cse">cse</option>
+        <option value="eee">eee</option>
+        <option value="llb">llb</option>
+    </select>
+    <script src="js9.js">
+    </script>
+</body>
+</html>

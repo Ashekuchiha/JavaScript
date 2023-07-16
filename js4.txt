@@ -1,0 +1,7 @@
+<body>
+    <p id="ip">this is ashak</p><br><br>
+    <button  onclick="as()">add style</button><br><br>
+    <button onclick="rs()">remove style</button>
+
+    <h1 id="ih1">hover me to see magic</h1>
+</body>

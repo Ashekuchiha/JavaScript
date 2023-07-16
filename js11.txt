@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="/javascriptpractice/js7.css"> -->
+    <style>
+        div{
+            height: 100px;
+            width: 200px;
+            background-color: tomato;
+        }
+    </style>
+</head>
+<body>
+    
+    <button class="bc" id="bi1">btn1</button>
+    <button class="bc" id="bi2">btn2</button>
+    <button class="bc" id="bi3">btn2</button>
+
+    <textarea name="" id="" cols="30" rows="10"></textarea>
+
+    <!--dragable content-->
+    <div class="dc"></div>
+    <!-- <p id="pi" draggable="true">i am ashik</p> -->
+    <img src="/image source/download.jpg" alt="" draggable="true" id="pi">
+    <!--****-->
+
+    <script src="js11.js">
+    </script>
+</body>
+</html>
